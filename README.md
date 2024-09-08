@@ -8,7 +8,7 @@ This project include Python code for project-process interface app
 
 <br>
 
-![2](https://github.com/SeymaAtmaca/Process_app_with_PyQt/blob/main/images/2.jpg) <br><br>
+
 ![1](https://github.com/SeymaAtmaca/Process_app_with_PyQt/blob/main/images/1.jpg) <br><br>
 
 
